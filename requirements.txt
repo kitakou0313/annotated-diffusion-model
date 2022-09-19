@@ -1,5 +1,6 @@
 jupyterlab
 torch
+torchvision
 einops
 datasets
 matplotlib
